@@ -69,7 +69,7 @@ weather-data-pipeline/
 
  - Conexión con la API de OpenWeatherMap
  - Transformación a DataFrame limpio
- - Almacenamiento en data lake local (Parquet/CSV)
+ - Almacenamiento en data lake local (CSV)
  - Organización por fecha
  - Automatización del flujo
  - Visualización opcional
